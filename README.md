@@ -1,8 +1,7 @@
-# React + Vite
+# Wack Pokedex
+- Takes user input and fetches pokemon informations
+- Generates 10 random pokemons for the user to choose
+- Has a button to generate 10 new pokemons
+- No styling / using the Vite's stock index.css styling
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![immagine](https://github.com/user-attachments/assets/8a720961-487c-442d-b2ae-2c8e2e09e9e8)
